@@ -2,18 +2,17 @@
 
 Live dashboard link :- _[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiZDE5OTExZDEtNDE2NS00NDczLWIyY2ItMjNjNjM0NGJjMmFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-## Sales Report :
+## Finance Report :
 
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Sanket-K4nse/Excel-Sales_Analytics/blob/main/AtliQ%20Hardware%20net%20sales.pdf)_ 
+    **1.** Create a _[Finance view report](https://github.com/Sanket-K4nse/Buisness_Insights_360/blob/main/Finance%20View.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Sanket-K4nse/Excel-Sales_Analytics/blob/main/Monthly%20performace%20vs%20target.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of Finance analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing Finance data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
