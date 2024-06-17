@@ -1,6 +1,7 @@
 # Buisness_Insights_360
 
-Live dashboard link :- _[https://app.powerbi.com/view](https://app.powerbi.com/groups/me/reports/c48563a8-f369-4f5b-82c0-0b7f3634c18d/ReportSection5eed6337666617ba88ff?experience=power-bi)_
+Live dashboard link :- _[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiZDE5OTExZDEtNDE2NS00NDczLWIyY2ItMjNjNjM0NGJjMmFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+
 ## Sales Report :
 
 
