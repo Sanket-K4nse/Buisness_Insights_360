@@ -2,6 +2,17 @@
 
 Live dashboard link :- _[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiZDE5OTExZDEtNDE2NS00NDczLWIyY2ItMjNjNjM0NGJjMmFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
+
+## Data Modeling:
+- Developed a comprehensive data model using relationships between tables in Power Query Editor.
+Data Merging: Merged datasets on common fields to ensure data integrity and consistency.
+
+
+## Snap Of Data Relation: 
+
+![Joins](https://github.com/Sanket-K4nse/Buisness_Insights_360/blob/main/Data%20Modeling.png)
+
+
 ## Finance Report :
 
 
